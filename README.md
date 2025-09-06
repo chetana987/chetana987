@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 # 💫 About Me:
-👋 About Me  <br><br>🧠 Passionate about learning and building impactful projects  <br>🎯 Currently focused on mastering backend development<br>🔍 Solving DSA problems to strengthen problem-solving skills  <br>🌐 Exploring  web technologies .  <br>🎓 Computer Engineering student  <br>🤝 Always open to collaboration and exciting ideas  <br>
+<br><br>🧠 Passionate about learning and building impactful projects  <br>🎯 Currently focused on mastering backend development<br>🔍 Solving DSA problems to strengthen problem-solving skills  <br>🌐 Exploring  web technologies .  <br>🎓 Computer Engineering student  <br>🤝 Always open to collaboration and exciting ideas  <br>
 
 
 ## 🌐 Socials:
