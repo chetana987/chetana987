@@ -119,12 +119,6 @@ Java • Spring Boot • MySQL • Redis • Docker • JWT • CI/CD
 
 ---
 
-## 📊 GitHub Activity
-
-![Chetana's GitHub Stats](https://github-readme-stats.vercel.app/api?username=chetana987&show_icons=true&theme=github_dark)
-
----
-
 ### Currently Seeking
 
 Software Developer • Java Developer • Backend Developer • Associate Software Engineer opportunities
