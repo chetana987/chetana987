@@ -1,44 +1,136 @@
-# 👩‍💻 Hi, I'm Chetana!  
+# Hi 👋, I'm Chetana Mahajan
 
-I’m a **Computer Engineering student** passionate about building impactful solutions with technology.  
-Currently sharpening my skills in **Backend Development**, **System Design**, and **Problem Solving (DSA)**.  
-I love exploring **Web Technologies**, contributing to projects, and learning by doing 🚀  
+### Java Backend Developer | Spring Boot | REST APIs | MySQL | Redis
 
----
+Computer Engineering graduate passionate about building scalable backend applications and solving real-world problems through software.
 
-## 🌟 What I Do  
-- 🧠 Solve challenging **DSA problems** on [CodeChef](https://www.codechef.com/users/chetana_m12) & [LeetCode](https://leetcode.com/u/chetana788/)  
-- 🎯 Build **side projects** to apply and expand my skills  
-- 🌱 Continuously explore **modern web stacks** and **cloud tools**  
-- 🤝 Collaborate with developers & share knowledge  
+I specialize in Java, Spring Boot, REST APIs, MySQL, Redis, and backend system development. I enjoy designing clean architectures, optimizing performance, and continuously improving my software engineering skills.
 
 ---
 
-## 🌐 Connect with Me  
-[![CodeChef](https://img.shields.io/badge/CodeChef-%23964B00.svg?logo=CodeChef&logoColor=white)](https://www.codechef.com/users/chetana_m12)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?logo=LeetCode&logoColor=white)](https://leetcode.com/u/chetana788/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/chetanamahajan)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_chetana_99)
-[![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/cgmahajan2004)
-[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@Chetana_m99)
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:cgmahajan2004@gmail.com)  
+## 🚀 Featured Projects
+
+### 🔗 URL Shortener
+
+Scalable URL shortening service built with Java, Spring Boot, MySQL, and Redis.
+
+**Key Features**
+
+* URL shortening using Base62 encoding
+* REST APIs for URL creation and redirection
+* Redis caching for faster retrieval
+* Analytics tracking
+* Live deployment
+
+**Tech Stack**
+Java • Spring Boot • MySQL • Redis • REST APIs
 
 ---
 
-## 💻 Tech Stack  
-**Languages:** Java, JavaScript, HTML5, CSS3  
-**Frontend:** React, Next.js, Bootstrap  
-**Backend & Tools:** MySQL, AWS, Jenkins, Socket.io  
-**Design & Collaboration:** Figma, Canva, WordPress  
-**Version Control:** GitHub  
+### 📝 Assessment Platform
+
+Online coding assessment platform for conducting and evaluating programming tests.
+
+**Key Features**
+
+* Secure candidate assessment
+* Auto-grading system
+* Hidden test cases
+* Timer-based exams
+* Result generation
+
+**Tech Stack**
+Java • Spring Boot • MySQL • HTML • CSS • JavaScript
 
 ---
 
-## 📊 GitHub Insights  
-![](https://github-readme-stats.vercel.app/api?username=chetana987&theme=dark&hide_border=false&include_all_commits=false&count_private=false)  
-![](https://nirzak-streak-stats.vercel.app/?user=chetana987&theme=dark&hide_border=false)  
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=chetana987&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)  
+### 📦 Inventra – AI-Powered Inventory Management System
+
+Inventory management platform designed for efficient stock tracking and business operations.
+
+**Key Features**
+
+* Role-based access control
+* JWT Authentication
+* Inventory tracking
+* Reporting dashboard
+* Redis caching
+* Dockerized deployment
+* CI/CD pipeline
+
+**Tech Stack**
+Java • Spring Boot • MySQL • Redis • Docker • JWT • CI/CD
 
 ---
 
-[![](https://visitcount.itsvg.in/api?id=chetana987&icon=0&color=0)](https://visitcount.itsvg.in)
+## 💻 Technical Skills
+
+### Backend
+
+* Java
+* Spring Boot
+* Spring Data JPA
+* Hibernate
+* REST APIs
+* JWT Authentication
+
+### Database
+
+* MySQL
+* SQL
+* Redis
+
+### Frontend
+
+* React.js
+* JavaScript
+* HTML
+* CSS
+
+### Tools & DevOps
+
+* Git
+* GitHub
+* Postman
+* Docker
+* CI/CD
+
+### Core Concepts
+
+* Object-Oriented Programming
+* Data Structures & Algorithms
+* Database Design
+* Software Engineering Principles
+
+---
+
+## 📈 Coding Profiles
+
+* LeetCode: https://leetcode.com/u/chetana788/
+* CodeChef: https://www.codechef.com/users/chetana_m12
+
+---
+
+## 🌐 Portfolio & Contact
+
+* Portfolio: https://chetana-mahajan-portfolio.vercel.app/
+* LinkedIn: https://linkedin.com/in/chetanamahajan
+* Email: [mahajanchetana2004@gmail.com](mailto:mahajanchetana2004@gmail.com)
+
+---
+
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=chetana987\&show_icons=true\&theme=tokyonight)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=chetana987\&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=chetana987\&layout=compact\&theme=tokyonight)
+
+---
+
+### Currently Seeking
+
+Software Developer • Java Developer • Backend Developer • Associate Software Engineer opportunities
+
+Always open to collaborating on interesting projects and learning new technologies.
