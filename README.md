@@ -14,33 +14,8 @@ I specialize in Java, Spring Boot, REST APIs, MySQL, Redis, and backend system d
 
 Scalable URL shortening service built with Java, Spring Boot, MySQL, and Redis.
 
-**Key Features**
-
-* URL shortening using Base62 encoding
-* REST APIs for URL creation and redirection
-* Redis caching for faster retrieval
-* Analytics tracking
-* Live deployment
-
-**Tech Stack**
-Java • Spring Boot • MySQL • Redis • REST APIs
-
----
-
-### 📝 Assessment Platform
-
-Online coding assessment platform for conducting and evaluating programming tests.
-
-**Key Features**
-
-* Secure candidate assessment
-* Auto-grading system
-* Hidden test cases
-* Timer-based exams
-* Result generation
-
-**Tech Stack**
-Java • Spring Boot • MySQL • HTML • CSS • JavaScript
+🔴 Live Demo: https://url-shortener-production-a9f6.up.railway.app/
+💻 GitHub: https://github.com/chetana987/URL-Shortener
 
 ---
 
@@ -48,18 +23,9 @@ Java • Spring Boot • MySQL • HTML • CSS • JavaScript
 
 Inventory management platform designed for efficient stock tracking and business operations.
 
-**Key Features**
+🔴 Live Demo: ventra-ai-poweredinventorysystem-production.up.railway.app
+💻 GitHub: https://github.com/chetana987/Inventra-AI-Powered_Inventory_System
 
-* Role-based access control
-* JWT Authentication
-* Inventory tracking
-* Reporting dashboard
-* Redis caching
-* Dockerized deployment
-* CI/CD pipeline
-
-**Tech Stack**
-Java • Spring Boot • MySQL • Redis • Docker • JWT • CI/CD
 
 ---
 
