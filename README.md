@@ -6,26 +6,6 @@ Computer Engineering graduate passionate about building scalable backend applica
 
 I specialize in Java, Spring Boot, REST APIs, MySQL, Redis, and backend system development. I enjoy designing clean architectures, optimizing performance, and continuously improving my software engineering skills.
 
----
-
-## 🚀 Featured Projects
-
-### 🔗 URL Shortener
-
-Scalable URL shortening service built with Java, Spring Boot, MySQL, and Redis.
-
-🔴 Live Demo: https://url-shortener-production-a9f6.up.railway.app/
-💻 GitHub: https://github.com/chetana987/URL-Shortener
-
----
-
-### 📦 Inventra – AI-Powered Inventory Management System
-
-Inventory management platform designed for efficient stock tracking and business operations.
-
-🔴 Live Demo: ventra-ai-poweredinventorysystem-production.up.railway.app
-💻 GitHub: https://github.com/chetana987/Inventra-AI-Powered_Inventory_System
-
 
 ---
 
